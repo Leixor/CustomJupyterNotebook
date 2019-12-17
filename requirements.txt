@@ -1,4 +1,4 @@
-jupyterhub==0.9.6
+jupyterhub==1.0.0
 scipy==1.1.0
 matplotlib==2.2.2
 mysql-connector-python
